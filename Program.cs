@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-
 namespace codexpaula6
 {
     class Program {
@@ -42,6 +41,5 @@ namespace codexpaula6
                     arquivo_respostas.Write(respostas[i] + ";");
             }
         }
-
     }
 }
