@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FIC\\.nuget\\packages\\": {},
+    "C:\\Users\\alander\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\codexpaula6\\codexpaula6.csproj",
+      "projectUniqueName": "C:\\Users\\alander\\CodeXP\\codexpaula6\\codexpaula6.csproj",
       "projectName": "codexpaula6",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\codexpaula6\\codexpaula6.csproj",
-      "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\codexpaula6\\obj\\",
+      "projectPath": "C:\\Users\\alander\\CodeXP\\codexpaula6\\codexpaula6.csproj",
+      "packagesPath": "C:\\Users\\alander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alander\\CodeXP\\codexpaula6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alander\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

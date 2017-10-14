@@ -8,3 +8,13 @@ C:\Users\FIC\Desktop\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.AssemblyInf
 C:\Users\FIC\Desktop\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.AssemblyInfo.cs
 C:\Users\FIC\Desktop\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.dll
 C:\Users\FIC\Desktop\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.pdb
+C:\Users\alander\CodeXP\codexpaula6\bin\Debug\netcoreapp2.0\codexpaula6.deps.json
+C:\Users\alander\CodeXP\codexpaula6\bin\Debug\netcoreapp2.0\codexpaula6.runtimeconfig.json
+C:\Users\alander\CodeXP\codexpaula6\bin\Debug\netcoreapp2.0\codexpaula6.runtimeconfig.dev.json
+C:\Users\alander\CodeXP\codexpaula6\bin\Debug\netcoreapp2.0\codexpaula6.dll
+C:\Users\alander\CodeXP\codexpaula6\bin\Debug\netcoreapp2.0\codexpaula6.pdb
+C:\Users\alander\CodeXP\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.csproj.CoreCompileInputs.cache
+C:\Users\alander\CodeXP\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.AssemblyInfoInputs.cache
+C:\Users\alander\CodeXP\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.AssemblyInfo.cs
+C:\Users\alander\CodeXP\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.dll
+C:\Users\alander\CodeXP\codexpaula6\obj\Debug\netcoreapp2.0\codexpaula6.pdb

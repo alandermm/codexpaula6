@@ -2,7 +2,6 @@ Nome
 Idade
 Genero
 Cidade
-Locald de Nascimento
+Local de Nascimento
 RG
 CPF
-CNH
